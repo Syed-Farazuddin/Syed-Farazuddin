@@ -1,3 +1,9 @@
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=30&lines=Welcome+to+my+Github+Account.)](https://git.io/typing-svg)
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
 <h1 align="center">Hello! This is <i>Syed Farazuddin</i></h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
