@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **syedfaraz2405@gmail.com**
+- 📫 How to reach me **syedfaraz2409@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
